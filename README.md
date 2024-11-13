@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viabdon
 - 👀 I’m interested in gamemaking and backend development.
-- 🌱 I’m currently learning PostgresSQL and DevOPS.
+- 🌱 I’m currently learning SQL, Node.JS, Typescript and ReactJS
 - 💞️ I’m looking to collaborate on anything really :)
 - 📫 How to reach me: viabdon04@gmail.com
 - 😄 Pronouns: He/Him
