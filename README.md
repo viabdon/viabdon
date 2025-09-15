@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viabdon
 - 👀 I’m interested in gamemaking, backend development and data analysis with Python.
-- 🌱 I’m currently learning SQL and Python for Data Science! (New Repo's coming soon)
+- 🌱 I’m currently learning Godot and Unreal Engine 5
 - 💞️ I’m looking to collaborate on small projects that help me learn!
 - 📫 How to reach me: viabdon04@gmail.com
 - 😄 Pronouns: He/Him
