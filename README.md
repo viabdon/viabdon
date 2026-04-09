@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @viabdon
 - 👀 I’m interested in gamemaking, AI and data analysis with Python.
-- 🌱 I’m currently learning Godot and Unreal Engine 5
-- 💞️ I’m looking to collaborate on small projects that help me learn!
+- 🌱 I’m currently learning PyGame and Deep Learning Models. 
 - 📫 How to reach me: viabdon04@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love The Legend of Zelda!
