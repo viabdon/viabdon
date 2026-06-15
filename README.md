@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viabdon
 - 👀 I’m interested in gamemaking, AI and data analysis with Python.
-- 🌱 I’m currently learning PyGame and Deep Learning Models. 
+- 🌱 I’m currently learning about PyTorch, gRPC and various ML models. 
 - 📫 How to reach me: viabdon04@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love The Legend of Zelda!
